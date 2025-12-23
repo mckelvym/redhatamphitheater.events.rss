@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss version="2.0">
+  <channel>
+    <title>Red Hat Amphitheater Events</title>
+    <link>https://www.redhatamphitheater.com</link>
+    <description>Events at Red Hat Amphitheater in Raleigh, NC</description>
+    <language>en-us</language>
+    <pubDate>Tue, 23 Dec 2025 17:44:07 -0500</pubDate>
+    <item>
+      <title>O.A.R. - Three Decades Tour (2026-07-29)</title>
+      <link>https://www.redhatamphitheater.com/events/oar-three-decades-tour</link>
+      <guid>https://www.redhatamphitheater.com/events/oar-three-decades-tour</guid>
+      <description>Date: 2026-07-29
+
+Plan Your VisitVenue Policies: Click here to view venue policies &amp; general informationSeat Upgrades: Click here to view seat upgrades</description>
+      <enclosure type="image/jpeg" url="https://www.redhatamphitheater.com/sites/rha/files/events/2025-10/Static_Social-Instagram_1080x1080_OAR_2026_Regional_RedHatAmphitheaterRaleigh_0729.jpg"/>
+      <pubDate>Tue, 23 Dec 2025 17:44:07 -0500</pubDate>
+    </item>
+  </channel>
+</rss>
